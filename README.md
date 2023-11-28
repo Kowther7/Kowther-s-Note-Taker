@@ -47,7 +47,7 @@ After successfully running the challenge or accessing the deployed app, you'll e
 
 While the challenge doesn't include specific test files, refer to the following GIF illustrating the correct functionality flow:
 
-![test](public/assets/img/gif.gif)
+![test](public/assets/img/note-taker.gif)
 
 ## Contributing
 
