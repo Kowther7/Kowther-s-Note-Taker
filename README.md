@@ -66,3 +66,5 @@ Refer to the license badge at the top of this file.
 For any inquiries, feel free to reach out via email at kowther.kahin@gmail.com or through [GitHub](https://github.com/kowther7).
 
 ## link to deployed website 
+https://koko-note-taker-aeb4f5d86db7.herokuapp.com/
+
